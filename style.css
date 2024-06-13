@@ -31,3 +31,8 @@ body{
         @apply h-[64px] leading-[64px] px-28 text-lg 
     }
 }
+
+.out-of-stock {
+    background: rgba(26, 30, 38, 0.3);
+    backdrop-filter: blur(4px);
+}
