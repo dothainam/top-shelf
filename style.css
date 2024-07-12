@@ -36,3 +36,7 @@ body{
     background: rgba(26, 30, 38, 0.3);
     backdrop-filter: blur(4px);
 }
+
+footer {
+    background: linear-gradient(180deg, #1a1e26 0%, #01100b 100%);
+}
